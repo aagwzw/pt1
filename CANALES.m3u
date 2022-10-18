@@ -1,6 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="ES| DAZN LA LIGA 1 FHD" tvg-logo="https://lo1.in/LOGO/ITALY/DAZN.png" group-title="EU | SPAIN FHD",ES| DAZN LA LIGA 1 
-http://xulimegaott.xyz:900/9092038189/6709515237/47211
+#EXTINF:-1 tvg-id="" tvg-name="ES| TEST" tvg-logo="https://lo1.in/LOGO/ITALY/DAZN.png" group-title="EU | SPAIN FHD",ES| TEST 
+http://77.247.109.49:8080/hls/streama192095/index.m3u8?cst=f8f6c1489db4bfc0d892c762268b8ea2
 
 #EXTINF:-1 tvg-id="" tvg-name="ES| DAZN LA LIGA 1 FHD2" tvg-logo="https://lo1.in/LOGO/ITALY/DAZN.png" group-title="EU | SPAIN FHD",ES| DAZN LA LIGA 1 
 http://xulimegaott.xyz:900/9092038189/6709515237/400440766

@@ -1,21 +1,27 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="ES| DAZN LA LIGA" tvg-logo="https://lo1.in/LOGO/ITALY/DAZN.png" group-title="EU | SPAIN FHD",ES| DAZN LA LIGA
-http://www.pandar.plus:25461/rZC48XkCCZDmUxi/7hO8LilPodZeSup/194257
+http://drsactive.xyz:8080/R8qEa9ghbu/6Mb6xBbqWM/118104
+
+#EXTINF:-1 tvg-id="" tvg-name="ES| DAZN LA LIGA OP.2" tvg-logo="https://lo1.in/LOGO/ITALY/DAZN.png" group-title="EU | SPAIN FHD",ES| DAZN LA LIGA OP.2
+http://drsactive.xyz:8080/R8qEa9ghbu/6Mb6xBbqWM/116980
 
 #EXTINF:-1 tvg-id="" tvg-name="ES| M+LIGA" tvg-logo="https://lo1.in/LOGO/ITALY/DAZN.png" group-title="EU | SPAIN FHD",ES| M+LIGA
-http://www.pandar.plus:25461/rZC48XkCCZDmUxi/7hO8LilPodZeSup/127849
+http://drsactive.xyz:8080/R8qEa9ghbu/6Mb6xBbqWM/30737
 
 #EXTINF:-1 tvg-id="" tvg-name="ES| M+LIGA OP.2" tvg-logo="https://lo1.in/LOGO/ITALY/DAZN.png" group-title="EU | SPAIN FHD",ES| M+LIGA OP.2
-http://www.pandar.plus:25461/rZC48XkCCZDmUxi/7hO8LilPodZeSup/127876
+http://drsactive.xyz:8080/R8qEa9ghbu/6Mb6xBbqWM/63095
+
+#EXTINF:-1 tvg-id="" tvg-name="ES| M+LIGA OP.3" tvg-logo="https://lo1.in/LOGO/ITALY/DAZN.png" group-title="EU | SPAIN FHD",ES| M+LIGA OP.3
+http://drsactive.xyz:8080/R8qEa9ghbu/6Mb6xBbqWM/49814
 
 #EXTINF:-1 tvg-id="" tvg-name="ES| M+LIGA 2" tvg-logo="https://lo1.in/LOGO/ITALY/DAZN.png" group-title="EU | SPAIN FHD",ES| M+LIGA 2
-http://www.pandar.plus:25461/rZC48XkCCZDmUxi/7hO8LilPodZeSup/127851
+http://drsactive.xyz:8080/R8qEa9ghbu/6Mb6xBbqWM/7182
 
 #EXTINF:-1 tvg-id="" tvg-name="ES| DAZN 1" tvg-logo="https://lo1.in/LOGO/ITALY/DAZN.png" group-title="EU | SPAIN FHD",ES| DAZN 1
-http://www.pandar.plus:25461/rZC48XkCCZDmUxi/7hO8LilPodZeSup/127815
+http://drsactive.xyz:8080/R8qEa9ghbu/6Mb6xBbqWM/63104
 
 #EXTINF:-1 tvg-id="" tvg-name="ES| DAZN F1" tvg-logo="https://lo1.in/LOGO/ITALY/DAZN.png" group-title="EU | SPAIN FHD",ES| DAZN F1
-http://www.pandar.plus:25461/rZC48XkCCZDmUxi/7hO8LilPodZeSup/127819
+http://drsactive.xyz:8080/R8qEa9ghbu/6Mb6xBbqWM/23037
 
 #EXTINF:-1 tvg-id="" tvg-name="ES| MCampeones1" tvg-logo="https://lo1.in/LOGO/ITALY/DAZN.png" group-title="EU | SPAIN FHD",ES| MCampeones1
 http://www.pandar.plus:25461/rZC48XkCCZDmUxi/7hO8LilPodZeSup/127820
